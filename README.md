@@ -2,6 +2,24 @@
 
 Workshop with Health AI and Data Science Journal Club at the Ottawa Hospital Research Institute
 
+## Overview
+
+In this workshop, participants will learn how to manipulate data efficiently using key functions from the [dplyr](https://dplyr.tidyverse.org/) package. We'll cover how to select specific columns, filter rows based on conditions, create new variables, and summarize data.
+
+This hands-on session is designed to help you work with data in a tidy, structured way, enabling faster and more intuitive data analysis.
+
+## Intended Audience
+
+This workshop is designed for:
+
+-   Beginner programmers who are new to R;
+
+-   Individuals experienced in other programming languages who want to learn R; and
+
+-   Base R users interested in transitioning to the tidyverse.
+
+Ideally, participants should have a basic understanding of programming concepts such as variables, data structures, and functions.
+
 ## Getting Started with the Repository
 
 -   Clone or download the repository
